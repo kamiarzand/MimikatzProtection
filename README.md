@@ -1,2 +1,3 @@
 # MimikatzProtection
-در اینجا به شما خواهیم گفت چطور کامپیوتر خود را از خطر MIMIKATZ و lsass dump محافظت کنید.
+Here we say you how to protect your computer from the dangers of MIMIKATZ and lsass dump.
+
